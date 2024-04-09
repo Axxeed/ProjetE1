@@ -6,6 +6,7 @@ mlflow-skinny==2.2.2
 mysql-connector==2.2.9
 mysql-connector-python==8.2.0
 notebook==6.4.12
+fastapi==0.100.1
 numpy==1.23.4
 oauthlib==3.2.2
 opencv-python==4.7.0.72
