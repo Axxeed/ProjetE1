@@ -212,8 +212,11 @@ nest-asyncio==1.5.6
 networkx==2.8.7
 nltk==3.7
 notebook==6.4.12
+<<<<<<< HEAD
 notebook_shim==0.2.0
 numba==0.56.4
+=======
+>>>>>>> parent of 8872e84 (Update requirements.txt)
 numpy==1.23.4
 oauthlib==3.2.2
 opencv-python==4.7.0.72
